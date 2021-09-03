@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 test
 Bonjour c'est moi
+=======
+test
+test_alexis
+>>>>>>> Stashed changes
